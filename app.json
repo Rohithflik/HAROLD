@@ -18,23 +18,23 @@
     "website": "https://github.com/HaroldTG/Harild",
     "repository": "https://github.com/HaroldTG/Harold",
     "env": {
-        "BOT_TOKEN": {6772519998:AAEDsGTiawhq4irzbq_MoFuIA3POxXE6yQ4
+        "BOT_TOKEN": {
             "description": "Your bot token.",
             "required": true
         },
-        "API_ID": {29817626
+        "API_ID": {
             "description": "Get this value from https://my.telegram.org",
             "required": true
         },
-        "API_HASH": {c530823a3feb1ebfea88b609708384a6
+        "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
             "required": true
         },
-        "CHANNELS": {https://t.me/f7moviesofficial
+        "CHANNELS": {
             "description": "Username or ID of channel or group. Separate multiple IDs by space.",
             "required": true
         },
-        "ADMINS": {@flik_7
+        "ADMINS": {
             "description": "Username or ID of Admin. Separate multiple Admins by space.",
             "required": true
         },
