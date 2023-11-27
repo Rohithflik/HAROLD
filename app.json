@@ -1,5 +1,5 @@
 {
-    "name": "EvaMariaBot",
+    "name": "HAROLD",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
     "stack": "container",
     "keywords": [
@@ -15,26 +15,26 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/EvamariaTG/EvaMaria",
-    "repository": "https://github.com/EvamariaTG/EvaMaria",
+    "website": "https://github.com/HaroldTG/Harild",
+    "repository": "https://github.com/HaroldTG/Harold",
     "env": {
-        "BOT_TOKEN": {
+        "BOT_TOKEN": {6772519998:AAEDsGTiawhq4irzbq_MoFuIA3POxXE6yQ4
             "description": "Your bot token.",
             "required": true
         },
-        "API_ID": {
+        "API_ID": {29817626
             "description": "Get this value from https://my.telegram.org",
             "required": true
         },
-        "API_HASH": {
+        "API_HASH": {c530823a3feb1ebfea88b609708384a6
             "description": "Get this value from https://my.telegram.org",
             "required": true
         },
-        "CHANNELS": {
+        "CHANNELS": {https://t.me/f7moviesofficial
             "description": "Username or ID of channel or group. Separate multiple IDs by space.",
-            "required": false
+            "required": true
         },
-        "ADMINS": {
+        "ADMINS": {@flik_7
             "description": "Username or ID of Admin. Separate multiple Admins by space.",
             "required": true
         },
