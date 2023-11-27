@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/HaroldTG/Harild",
-    "repository": "https://github.com/HaroldTG/Harold",
+    "website": "https://github.com/EvaMarieTG/EvaMarie",
+    "repository": "https://github.com/EvaMarieTG/EvaMarie",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
